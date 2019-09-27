@@ -1,0 +1,57 @@
+
+//
+// *** GAMEPLAY ***
+//
+SkipIntro=n // Just some random words here
+ToolTip=y
+Language=English
+CameraMoveSpeed=600
+
+
+//
+// *** CONTROLS ***
+//
+MoveCameraLeft=A //MouseButtonLeft
+MoveCameraRight=D //MouseButtonRight
+MoveCameraUp=W
+MoveCameraDown=S
+
+
+//
+// *** VIDEO ***
+//
+// VideoResolution sets the wanted video resolution like: 1024x768, 1920x1080,
+// but if not set then it will use the desktops resolution.
+//
+// VSync sets if vertical-sync is to be used or not. Default is to not use VSync.
+//
+// FramerateLimit sets the wanted framerate limit. Typical set to 60 if used.
+// If sets to 0 then it is disabled. Default is 0.
+//
+// DisplayMode sets what mode to use. 0:Fullscreen, 1:Borderless, 2:Windowed
+// The first parameter sets mode when starting.
+// The second parameter sets what the default mode for
+// fullscreen (fullscreen or borderless) is when user presses ALT+ENTER.
+// Default is DisplayMode=0,0
+//
+// AntiAliasing sets the anti aliasing level (AA). Default is 0.
+//
+// ShowFPS sets if the FPS counter is to be shown or not. Default is 0.
+//
+VideoResolution=800x600 //1024x768 //800x600 //1920x1080
+VSync=n
+FramerateLimit=0
+DisplayMode=2,0 //0,0
+AntiAliasing=0
+ShowFPS=y
+
+
+//
+// *** SOUND
+//
+// If MasterVolume is set to 0 then it is set to be muted.
+//
+MasterVolume=100
+MusicVolume=20
+SoundFxVolume=60
+VoiceVolume=40

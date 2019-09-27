@@ -1,0 +1,293 @@
+============  Start of log  ============
+LOG: ResourceManager::AcquireTexture(Mouse-08.png) .. Load texture .. count = 1
+LOG: InitState: Constructor
+LOG: InitState: Enter
+LOG: MainMenuState: Constructor
+LOG: InitState: Exit
+LOG: InitState: Destructor
+LOG: MainMenuState: Enter
+LOG: ResourceManager::AcquireTexture(TestBox.png) .. Load texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Load texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 2
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 3
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 4
+LOG: OptionsState: Constructor
+LOG: MainMenuState: Exit
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 3
+LOG: MainMenuState: Exit: deleting button[0]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 2
+LOG: MainMenuState: Exit: deleting button[1]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 1
+LOG: MainMenuState: Exit: deleting button[2]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 0
+LOG: ResourceManager::ReleaseTexture(TestBox.png) .. Decrease count = 0
+LOG: MainMenuState: Destructor
+LOG: OptionsState: Enter
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 2
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 3
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 4
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 5
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 6
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 7
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 8
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 9
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 10
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 11
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 12
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 13
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 14
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 15
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 16
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 17
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 18
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 19
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 20
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 21
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 22
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 23
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 24
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 25
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 26
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 27
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 28
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 29
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 30
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 31
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 32
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 33
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 34
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 35
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 36
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 37
+LOG: ResourceManager::CommitTextureChanges(TestBox.png) .. Releasing texture -> count = 0
+LOG: MainMenuState: Constructor
+LOG: OptionsState: Exit
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 36
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 35
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 34
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 33
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 32
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 31
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 30
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 29
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 28
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 27
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 26
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 25
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 24
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 23
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 22
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 21
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 20
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 19
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 18
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 17
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 16
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 15
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 14
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 13
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 12
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 11
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 10
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 9
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 8
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 7
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 6
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 5
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 4
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 3
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 2
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 1
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 0
+LOG: OptionsState: Destructor
+LOG: MainMenuState: Enter
+LOG: ResourceManager::AcquireTexture(TestBox.png) .. Load texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 2
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 3
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 4
+LOG: GameplayState: Constructor
+LOG: MainMenuState: Exit
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 3
+LOG: MainMenuState: Exit: deleting button[0]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 2
+LOG: MainMenuState: Exit: deleting button[1]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 1
+LOG: MainMenuState: Exit: deleting button[2]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 0
+LOG: ResourceManager::ReleaseTexture(TestBox.png) .. Decrease count = 0
+LOG: MainMenuState: Destructor
+LOG: GameplayState: Enter
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Terrain.png) .. Load texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Building-treehouse-01.png) .. Load texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Building-treehouse-01.png) .. Share texture .. count = 2
+LOG: ResourceManager::AcquireTexture(Building-treehouse-01.png) .. Share texture .. count = 3
+LOG: ResourceManager::AcquireTexture(Building-treehouse-01.png) .. Share texture .. count = 4
+LOG: ResourceManager::CommitTextureChanges(TestBox.png) .. Releasing texture -> count = 0
+LOG: MainMenuState: Constructor
+LOG: GameplayState: Exit
+LOG: ResourceManager::ReleaseTexture(Building-treehouse-01.png) .. Decrease count = 3
+LOG: ResourceManager::ReleaseTexture(Terrain.png) .. Decrease count = 0
+LOG: ResourceManager::ReleaseTexture(Building-treehouse-01.png) .. Decrease count = 2
+LOG: ResourceManager::ReleaseTexture(Building-treehouse-01.png) .. Decrease count = 1
+LOG: ResourceManager::ReleaseTexture(Building-treehouse-01.png) .. Decrease count = 0
+LOG: GameplayState: Exit: deleting button[0]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 0
+LOG: GameplayState: Destructor
+LOG: MainMenuState: Enter
+LOG: ResourceManager::AcquireTexture(TestBox.png) .. Load texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 2
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 3
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 4
+LOG: ResourceManager::CommitTextureChanges(Terrain.png) .. Releasing texture -> count = 0
+LOG: ResourceManager::CommitTextureChanges(Building-treehouse-01.png) .. Releasing texture -> count = 0
+LOG: OptionsState: Constructor
+LOG: MainMenuState: Exit
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 3
+LOG: MainMenuState: Exit: deleting button[0]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 2
+LOG: MainMenuState: Exit: deleting button[1]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 1
+LOG: MainMenuState: Exit: deleting button[2]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 0
+LOG: ResourceManager::ReleaseTexture(TestBox.png) .. Decrease count = 0
+LOG: MainMenuState: Destructor
+LOG: OptionsState: Enter
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 2
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 3
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 4
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 5
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 6
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 7
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 8
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 9
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 10
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 11
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 12
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 13
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 14
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 15
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 16
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 17
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 18
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 19
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 20
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 21
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 22
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 23
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 24
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 25
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 26
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 27
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 28
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 29
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 30
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 31
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 32
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 33
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 34
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 35
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 36
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 37
+LOG: ResourceManager::CommitTextureChanges(TestBox.png) .. Releasing texture -> count = 0
+LOG: MainMenuState: Constructor
+LOG: OptionsState: Exit
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 36
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 35
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 34
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 33
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 32
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 31
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 30
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 29
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 28
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 27
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 26
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 25
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 24
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 23
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 22
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 21
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 20
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 19
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 18
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 17
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 16
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 15
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 14
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 13
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 12
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 11
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 10
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 9
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 8
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 7
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 6
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 5
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 4
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 3
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 2
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 1
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 0
+LOG: OptionsState: Destructor
+LOG: MainMenuState: Enter
+LOG: ResourceManager::AcquireTexture(TestBox.png) .. Load texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 2
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 3
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 4
+LOG: GameplayState: Constructor
+LOG: MainMenuState: Exit
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 3
+LOG: MainMenuState: Exit: deleting button[0]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 2
+LOG: MainMenuState: Exit: deleting button[1]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 1
+LOG: MainMenuState: Exit: deleting button[2]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 0
+LOG: ResourceManager::ReleaseTexture(TestBox.png) .. Decrease count = 0
+LOG: MainMenuState: Destructor
+LOG: GameplayState: Enter
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Terrain.png) .. Load texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Building-treehouse-01.png) .. Load texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Building-treehouse-01.png) .. Share texture .. count = 2
+LOG: ResourceManager::AcquireTexture(Building-treehouse-01.png) .. Share texture .. count = 3
+LOG: ResourceManager::AcquireTexture(Building-treehouse-01.png) .. Share texture .. count = 4
+LOG: ResourceManager::CommitTextureChanges(TestBox.png) .. Releasing texture -> count = 0
+LOG: MainMenuState: Constructor
+LOG: GameplayState: Exit
+LOG: ResourceManager::ReleaseTexture(Building-treehouse-01.png) .. Decrease count = 3
+LOG: ResourceManager::ReleaseTexture(Terrain.png) .. Decrease count = 0
+LOG: ResourceManager::ReleaseTexture(Building-treehouse-01.png) .. Decrease count = 2
+LOG: ResourceManager::ReleaseTexture(Building-treehouse-01.png) .. Decrease count = 1
+LOG: ResourceManager::ReleaseTexture(Building-treehouse-01.png) .. Decrease count = 0
+LOG: GameplayState: Exit: deleting button[0]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 0
+LOG: GameplayState: Destructor
+LOG: MainMenuState: Enter
+LOG: ResourceManager::AcquireTexture(TestBox.png) .. Load texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 1
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 2
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 3
+LOG: ResourceManager::AcquireTexture(Frame.png) .. Share texture .. count = 4
+LOG: ResourceManager::CommitTextureChanges(Terrain.png) .. Releasing texture -> count = 0
+LOG: ResourceManager::CommitTextureChanges(Building-treehouse-01.png) .. Releasing texture -> count = 0
+LOG: MainMenuState: Exit
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 3
+LOG: MainMenuState: Exit: deleting button[0]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 2
+LOG: MainMenuState: Exit: deleting button[1]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 1
+LOG: MainMenuState: Exit: deleting button[2]
+LOG: ResourceManager::ReleaseTexture(Frame.png) .. Decrease count = 0
+LOG: ResourceManager::ReleaseTexture(TestBox.png) .. Decrease count = 0
+LOG: ResourceManager::CommitTextureChanges(Frame.png) .. Releasing texture -> count = 0
+LOG: ResourceManager::CommitTextureChanges(TestBox.png) .. Releasing texture -> count = 0
+LOG: MainMenuState: Destructor
+LOG: ResourceManager::ReleaseTexture(Mouse-08.png) .. Decrease count = 0
+=============  End of log  =============
